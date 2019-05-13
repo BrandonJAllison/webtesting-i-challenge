@@ -1,4 +1,4 @@
-onst enhancer = require('./enhancer.js');
+const enhancer = require('./enhancer.js');
 const { repair, fail, succeed } = require('./enhancer.js');
 
 // test away!
